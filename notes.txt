@@ -1,1 +1,2 @@
-Added feature update on branch
+Notes for Git assignment
+Work in progress for stash demo
