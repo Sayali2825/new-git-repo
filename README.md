@@ -1,4 +1,5 @@
-# new git repository
+# New Git Repository
 
-added changes for assignment
+Added changes for assignment
 Pushed new change for pull/push task
+Feature added on remote branch
