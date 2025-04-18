@@ -1,2 +1,3 @@
 Notes for Git assignment
 Work in progress for stash demo
+Hello Friday
